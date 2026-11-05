@@ -1,0 +1,18 @@
+:root {
+  --theme: #faf7f2;   /* page background (light mode) */
+  --entry: #ffffff;   /* background of post cards on the home page */
+  --code-bg: #f0ece4; /* code block background */
+}
+
+.dark {
+  --theme: #14161a;   /* page background (dark mode) */
+  --entry: #1e2128;
+  --code-bg: #262a33;
+}
+
+body,
+body.list {
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)),
+    url("/images/bg.png") center / cover fixed no-repeat; !important;
+}

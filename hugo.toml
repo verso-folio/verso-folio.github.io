@@ -1,0 +1,36 @@
+baseURL = 'https://versofolio.xyz/'
+locale = 'en-au'
+title = 'Verso Folio'
+theme = 'PaperMod'
+[params]
+  hideSummary = false
+  defaultTheme = "light"
+  disableThemeToggle = true
+
+[[menu.main]]
+  identifier = "Essays"
+  name = "Essays"
+  url = "/categories/Essays/"
+  weight = 20
+[[menu.main]]
+  identifier = "Poems"
+  name = "Poems"
+  url = "/categories/Poems/"
+  weight = 20
+[[menu.main]]
+  identifier = "Prose"
+  name = "Prose"
+  url = "/categories/Prose/"
+  weight = 20
+
+[[menu.main]]
+  identifier = " "
+  name = "       "
+  url = " "
+  weight = 100
+
+[[menu.main]]
+  identifier = "email"
+  name = "Subscribe via email"
+  url = "https://buttondown.com/versofolio"
+  weight = 200
