@@ -22,7 +22,7 @@ The only reason the developers didn’t program the infinite variety of real con
 
 Prose obviously doesn’t have a visual element that corresponds to the thing it’s describing. It’s purely abstraction. It is trite to say every word in every language is a metaphor. The word ‘car’ stands for a car but is not a car. *Ceci n’est pas une pipe*. That’s why you read a book and imagine a movie in your own head, and your movie is different from anyone else’s, because your version of ‘car’ is different, because you are different (*cf* Platonic idealism). This is simple stuff. Therefore we naturally read stories by filling in visual details.
 
-So we approach visual media like games one way, and we approach written media a different way. We assume books require greater imaginative faculty, that what is described in them can be a cipher for something we imagine (if a car isn’t described, it can be any car), but we assume it is literally true that Toutius Sextius actually saw a mud crab the other day. (We have the ability to imagine that he said anything else, but we won’t even be naturally led to do that after AI generates all his dialogue. Games which use AI for that sort of thing will be perfectly literal, totally representative of their reality, and what they give you will be the sum total of what you get, and the medium of the video game will then be complete, having achieved perfect realism. At that point everyone will move on – not just because AI will reduce new work in the medium to a slurry of repetition, but because there will be nothing left to do in games. *Cf *a famous conversation with Jean Renoir on youtube – search for *parle de son art*.)
+So we approach visual media like games one way, and we approach written media a different way. We assume books require greater imaginative faculty, that what is described in them can be a cipher for something we imagine (if a car isn’t described, it can be any car), but we assume it is literally true that Toutius Sextius actually saw a mud crab the other day. (We have the ability to imagine that he said anything else, but we won’t even be naturally led to do that after AI generates all his dialogue. Games which use AI for that sort of thing will be perfectly literal, totally representative of their reality, and what they give you will be the sum total of what you get, and the medium of the video game will then be complete, having achieved perfect realism. At that point everyone will move on – not just because AI will reduce new work in the medium to a slurry of repetition, but because there will be nothing left to do in games. *Cf* a famous conversation with Jean Renoir on youtube – search for *parle de son art*.)
 
 But what happens if you reverse the approaches?
 
@@ -47,10 +47,9 @@ The best thing I took from Vladimir Nabokov – and I don’t feel much of an at
 Anyway – I was talking about getting a few necessary details sufficient to make something particular and ignoring the rest. By doing that you force focus. It’s necessary to force focus in this way. Think of Chekhov’s gun. Only those things that move or that are exceptional are described; everything else is assumed present and normal. Forcing focus is the same as saying you express only what is ‘intended’, rather than what is incidental. Bad storytellers describe what is incidental and therefore irrelevant, general. They don’t look at the specifics, the particularities, of the thing being written about.
 
 In brief, if you don’t write a detail, the reader will usually take it as read to make the text work realistically. So write only
-
-	(a) specific details
-
-	(b) which matter. (Which advance the point of the work.)
+ 
+   a.  specific details
+   b.  which matter. (Which advance the point of the work.)
 
 Many events that happen in longer novels are synecdochical. If you are writing a book about a student, you describe her attending class only once, if that, and only if that is important to who she is and what she does. You don’t need to describe it, if it isn’t important in itself, but it’s important to know she *does* it because it informs her character and her choices. Where you skip intervals of time, the reader implicitly understands that she’s been attending classes during the intervals. Unless something important happens in the classroom, you shouldn’t set a scene in one. In other words, only important events should be given scenes, or ‘made particular’ (shown) while those things that allow the scenes of particularity to stand up should be should be ‘general’, or synecdochical, or in other words ‘told’.
 
@@ -70,9 +69,9 @@ Taken further: every story is nothing more than an ‘example of the whole’ of
 
 Every sentence ever written was written in the ostensive tense. Any one thing described implies everything else that gives it its particular shape and shade. A perfect exploration of the feeling of grief also acts as a perfect exploration of the feeling of joy.
 
-Consider Simone Weil’s gravity: when you rise above categorising an event as only ‘either’ good or bad. From above, it all looks the same, like an imposition on being (a heroic imposition, *cf *my notes on heroes), and the true alternative to ‘all things’ is ‘God’ or ‘void’.
+Consider Simone Weil’s gravity: when you rise above categorising an event as only ‘either’ good or bad. From above, it all looks the same, like an imposition on being (a heroic imposition, *cf* my notes on heroes), and the true alternative to ‘all things’ is ‘God’ or ‘void’.
 
-Incidentally, if you adopt the material, literal view, rather than the abstract and synecdochical, in *writing *your work, you can create something very absurd very quickly, because you can’t write about any of the stuff you’d naturally ignore, and you’d naturally ignore a whole host of details that would make the story more normal. I have done zero analysis on this point, but suspect this is the great secret behind many an ersatz artist, and possibly everything I have just said is what they mean when they explain their method and recommend any of their disciples ‘ignore your preconceptions’ and other like statements.
+Incidentally, if you adopt the material, literal view, rather than the abstract and synecdochical, in *writing* your work, you can create something very absurd very quickly, because you can’t write about any of the stuff you’d naturally ignore, and you’d naturally ignore a whole host of details that would make the story more normal. I have done zero analysis on this point, but suspect this is the great secret behind many an ersatz artist, and possibly everything I have just said is what they mean when they explain their method and recommend any of their disciples ‘ignore your preconceptions’ and other like statements.
 
 I move now to a slightly different point.
 
